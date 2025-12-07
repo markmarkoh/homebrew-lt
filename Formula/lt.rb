@@ -6,7 +6,7 @@ class Lt < Formula
   homepage "https://github.com/markmarkoh/lt"
   url "https://github.com/markmarkoh/lt/releases/latest/download/lt.tar.gz"
   sha256 "38553145a7d0f17badbf6005db51db6fb10ab930528abeff853cc802b584825d"
-  version "0.0.11.1"
+  version "0.0.12"
 
   def install
     bin.install "lt"
